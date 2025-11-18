@@ -1,3 +1,5 @@
+<img width="1914" height="916" alt="image" src="https://github.com/user-attachments/assets/8aac5601-9384-4cd4-af1d-1b322d499c52" />
+
 # WebGi Jewelry Landing Page
 A template for buildind scrollable landing pages with Gsap, ScrollTrigger and webgi engine in typescript using parcel bundler.
 
